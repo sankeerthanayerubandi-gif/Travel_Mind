@@ -1,4 +1,4 @@
-# TravelMind 3D
+# TravelMind 
 
 **TravelMind — An Autonomous Multi-Agent AI System for Personalized and Dynamic Travel Planning** is a Python + Streamlit final-year project prototype aligned with the submitted BVC Engineering College abstract.
 
